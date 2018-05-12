@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
     - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31056#The-Grandee
 gutenberg_issued: '2010-01-23'
 gutenberg_type: Text
 identifiers:
